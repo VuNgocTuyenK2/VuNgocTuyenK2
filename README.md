@@ -1,17 +1,7 @@
-### Hi there 👋
-
-<!--
-**VuNgocTuyenK2/VuNgocTuyenK2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Intern
-- 🌱 I’m currently learning humg.edu.vn
-- 📫 How to reach me: 
-      Email: tuyeni02km2@gmail.com
-      Hotline: 0333301493
-
--->
+### Hi, I'm Tuyen Vu! 👋
+I am a self-taught programmer. Has a great fondness for code 
+enjoys learning new technologies  and discovering the essence of problems.
+ Thought : "Life is full of choices…choose wisely!” 
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/nqoctuyen2278) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/https://www.youtube.com/channel/UC5OJMz2xZ0DKRyr_TONw-7A) 
