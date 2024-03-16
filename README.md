@@ -20,7 +20,7 @@ enjoys learning new technologies  and discovering the essence of problems.
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ### 😂Random Dev Meme
-<img src="(https://www.pexels.com/vi-vn/tim-kiem/l%E1%BA%ADp%20tr%C3%ACnh/)" width="512px"/>
+<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
 
 ---
 [![](https://visitcount.itsvg.in/api?id=VuNgocTuyenK2&icon=0&color=0)](https://visitcount.itsvg.in)
